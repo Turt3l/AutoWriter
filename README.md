@@ -1,1 +1,1 @@
-This is my autoclicker made with python!
+This is my autowriter made with python!
